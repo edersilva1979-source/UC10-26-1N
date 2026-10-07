@@ -1,5 +1,8 @@
-# UC10-26-1N
-# Curso de Git e GitHub
+<h1 align="center"> Curso de Git e GitHub</h1>
+
+<div align="center">
+<img src="Git.png" width="500" alt="Exemplo">
+</div>
 
 ## Controle de versão, colaboração e desenvolvimento profissional
 
