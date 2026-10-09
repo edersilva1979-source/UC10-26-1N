@@ -2,9 +2,6 @@
 
 ## Git e GitHub na Prática
 
-### Carga horária
-
-4 horas
 
 ### Tema da aula
 
@@ -198,37 +195,6 @@ Para acompanhar esta aula, você deverá conhecer:
 
 7. Pelo menos três commits criados nas aulas anteriores.
 
-## 6. Organização das quatro horas
-
-### Primeiro momento: 30 minutos
-
-Revisão das aulas anteriores e apresentação do conceito de branch.
-
-### Segundo momento: 35 minutos
-
-Demonstração de criação, listagem e troca de branches.
-
-### Terceiro momento: 50 minutos
-
-Desenvolvimento guiado de uma nova funcionalidade.
-
-### Quarto momento: 30 minutos
-
-Publicação e comparação da branch no GitHub.
-
-### Intervalo: 15 minutos
-
-### Quinto momento: 45 minutos
-
-Trabalho paralelo em equipes.
-
-### Sexto momento: 25 minutos
-
-Branches remotas, acompanhamento e exclusão.
-
-### Sétimo momento: 30 minutos
-
-Exercícios, desafios, revisão e avaliação.
 
 # Parte 1: Revisão do fluxo estudado
 
