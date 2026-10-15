@@ -10,17 +10,7 @@ Nesta atividade, nós vamos criar um pequeno projeto HTML e praticar o fluxo de 
 
 > **Atenção:** Executaremos os comandos na ordem apresentada. Antes de trocar de branch, vamos garantir que todas as mudanças foram salvas em commits.
 
-## Etapa 1. Criar a pasta do projeto no Desktop
-
-Vamos abrir o **Git Bash** e executar:
-
-```bash
-cd ~/Desktop
-mkdir aula_merge
-cd aula_merge
-```
-
-> Caso o Desktop esteja sincronizado com o OneDrive, podemos criar a pasta manualmente na Área de Trabalho e abrir o terminal do VS Code dentro dela.
+## Etapa 1. Criar a pasta do projeto no Desktop chamada "aula_merge"
 
 Agora vamos abrir a pasta no VS Code:
 
