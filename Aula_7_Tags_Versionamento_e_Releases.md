@@ -2,10 +2,6 @@
 
 ## Git e GitHub na Prática
 
-### Carga horária
-
-4 horas
-
 ### Tema da aula
 
 Criação e gerenciamento de tags, aplicação do Versionamento Semântico, manutenção do arquivo `CHANGELOG.md` e publicação de versões oficiais com GitHub Releases.
@@ -202,35 +198,33 @@ Para acompanhar esta aula, você deverá conhecer:
 8. Funcionalidades concluídas e revisadas.
 9. Pull Requests integrados.
 
-## 6. Organização das quatro horas
+## 6. Organização 
 
-### Primeiro momento: 25 minutos
+### Primeiro momento: 
 
 Revisão do projeto e apresentação dos conceitos de tag, versão e Release.
 
-### Segundo momento: 35 minutos
+### Segundo momento: 
 
 Criação, inspeção, publicação e exclusão de tags.
 
-### Terceiro momento: 35 minutos
+### Terceiro momento: 
 
 Versionamento Semântico e exercícios de decisão de versão.
 
-### Quarto momento: 30 minutos
+### Quarto momento: 
 
 Criação e manutenção do `CHANGELOG.md`.
 
-### Intervalo: 15 minutos
-
-### Quinto momento: 45 minutos
+### Quinto momento: 
 
 Preparação e publicação da Release `v1.0.0`.
 
-### Sexto momento: 30 minutos
+### Sexto momento: 
 
 Simulação de correção e publicação da versão `v1.0.1`.
 
-### Sétimo momento: 25 minutos
+### Sétimo momento: 
 
 Atividade colaborativa, exercícios, desafios e encerramento.
 
