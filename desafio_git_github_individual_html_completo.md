@@ -1,4 +1,4 @@
-# 🏢 Desafio Final de Git e GitHub
+# 🏢 Desafio de Git e GitHub
 
 ## Projeto: Sistema de Gestão da Empresa Horizonte
 
